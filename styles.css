@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: black;
+}
+.post{
+    background: white;
+    margin: auto;
+    width: 300px;
+}
+.div-img{
+    float: top;
+}
+.titulo{
+    margin: 1px;
+}
+.div-arriba {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.fa-html5 {
+font-size: 30px;
+}
+.fa-ellipsis-v{
+    font-size: 25px;
+    }
+.div-der{
+    width: 70%;
+}
+.tres-puntos{
+    float: right;
+}
+.fa-bookmark {
+    float: right;
+}
+.div-abajo {
+    padding: 5px;
+}
+.div-centro {
+    font-size: 12px;
+}
